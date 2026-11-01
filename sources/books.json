@@ -1,0 +1,1 @@
+{"name":"practice-books","url":"https://books.toscrape.com/","itemSelector":"article.product_pod","fields":{"title":"h3 a","price":".price_color","availability":".availability"},"maxItems":20}
